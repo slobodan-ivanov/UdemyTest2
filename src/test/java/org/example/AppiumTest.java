@@ -9,6 +9,10 @@ public class AppiumTest {
 		System.out.println("Hello native");
 		System.out.println("Hello native2");
 		System.out.println("Hello native3");
+
+		System.out.println("Hello nativeB1");
+		System.out.println("Hello nativeB2");
+		System.out.println("Hello nativeB3");
 	}
 	
 	@Test
