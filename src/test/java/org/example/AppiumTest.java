@@ -18,6 +18,11 @@ public class AppiumTest {
 	@Test
 	public void AndroidTest() {
 		System.out.println("Hello Android test");
+		System.out.println("Hello Arhitect 1");
+		System.out.println("Hello Arhitect 2");
+		System.out.println("Hello Arhitect 3");
+		System.out.println("Hello Arhitect 4");
+
 	}
 
 }
