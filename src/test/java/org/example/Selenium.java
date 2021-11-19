@@ -16,6 +16,11 @@ public class Selenium {
 	public void elementsID() {
 		
 	}
+
+	@Test
+	public void elementsID2() {
+
+	}
 	
 	
 
