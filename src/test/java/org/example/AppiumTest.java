@@ -13,6 +13,7 @@ public class AppiumTest {
 		System.out.println("Hello nativeB1");
 		System.out.println("Hello nativeB2");
 		System.out.println("Hello nativeB3");
+		System.out.println("Small change");
 	}
 	
 	@Test
